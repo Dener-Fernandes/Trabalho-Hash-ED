@@ -1,0 +1,109 @@
+5200050	Abadia de Goiás	-16.7573	-49.4412	0	52	1050	62	America/Sao_Paulo
+3100104	Abadia dos Dourados	-18.4831	-47.3916	0	31	4001	34	America/Sao_Paulo
+5200100	Abadiânia	-16.197	-48.7057	0	52	9201	62	America/Sao_Paulo
+3100203	Abaeté	-19.1551	-45.4444	0	31	4003	37	America/Sao_Paulo
+1500107	Abaetetuba	-1.72183	-48.8788	0	15	0401	91	America/Sao_Paulo
+2300101	Abaiara	-7.34588	-39.0416	0	23	1301	88	America/Sao_Paulo
+2900108	Abaíra	-13.2488	-41.6619	0	29	3301	77	America/Sao_Paulo
+2900207	Abaré	-8.72073	-39.1162	0	29	3303	75	America/Sao_Paulo
+4100103	Abatiá	-23.3049	-50.3133	0	41	7401	43	America/Sao_Paulo
+4200051	Abdon Batista	-27.6126	-51.0233	0	42	9939	49	America/Sao_Paulo
+1500131	Abel Figueiredo	-4.95333	-48.3933	0	15	0375	94	America/Sao_Paulo
+4200101	Abelardo Luz	-26.5716	-52.3229	0	42	8001	49	America/Sao_Paulo
+3100302	Abre Campo	-20.2996	-42.4743	0	31	4005	31	America/Sao_Paulo
+2600054	Abreu e Lima	-7.90072	-34.8984	0	26	2631	81	America/Sao_Paulo
+1700251	Abreulândia	-9.62101	-49.1518	0	17	0337	63	America/Sao_Paulo
+3100401	Acaiaca	-20.359	-43.1439	0	31	4007	31	America/Sao_Paulo
+2100055	Açailândia	-4.94714	-47.5004	0	21	0961	99	America/Sao_Paulo
+2900306	Acajutiba	-11.6575	-38.0197	0	29	3305	75	America/Sao_Paulo
+1500206	Acará	-1.95383	-48.1985	0	15	0403	91	America/Sao_Paulo
+2300150	Acarape	-4.22083	-38.7055	0	23	1231	85	America/Sao_Paulo
+2300200	Acaraú	-2.88769	-40.1183	0	23	1303	88	America/Sao_Paulo
+2400109	Acari	-6.4282	-36.6347	0	24	1601	84	America/Sao_Paulo
+2200053	Acauã	-8.21954	-41.0831	0	22	0266	89	America/Sao_Paulo
+4300034	Aceguá	-31.8665	-54.1615	0	43	1118	53	America/Sao_Paulo
+2300309	Acopiara	-6.08911	-39.448	0	23	1305	88	America/Sao_Paulo
+5100102	Acorizal	-15.194	-56.3632	0	51	9001	65	America/Porto_Velho
+1200013	Acrelândia	-9.82581	-66.8972	0	12	0643	68	America/Rio_Branco
+5200134	Acreúna	-17.396	-50.3749	0	52	9645	64	America/Sao_Paulo
+2400208	Açu	-5.58362	-36.914	0	24	1603	84	America/Sao_Paulo
+3100500	Açucena	-19.0671	-42.5419	0	31	4009	33	America/Sao_Paulo
+3500105	Adamantina	-21.682	-51.0737	0	35	6101	18	America/Sao_Paulo
+5200159	Adelândia	-16.4127	-50.1657	0	52	9769	64	America/Sao_Paulo
+3500204	Adolfo	-21.2325	-49.6451	0	35	6103	17	America/Sao_Paulo
+4100202	Adrianópolis	-24.6606	-48.9922	0	41	7403	41	America/Sao_Paulo
+2900355	Adustina	-10.5437	-38.1113	0	29	3253	75	America/Sao_Paulo
+2600104	Afogados da Ingazeira	-7.74312	-37.631	0	26	2301	87	America/Sao_Paulo
+2400307	Afonso Bezerra	-5.49229	-36.5075	0	24	1605	84	America/Sao_Paulo
+3200102	Afonso Cláudio	-20.0778	-41.1261	0	32	5601	27	America/Sao_Paulo
+2100105	Afonso Cunha	-4.13631	-43.3275	0	21	0701	98	America/Sao_Paulo
+2600203	Afrânio	-8.51136	-41.0095	0	26	2303	87	America/Sao_Paulo
+1500305	Afuá	-0.154874	-50.3861	0	15	0405	91	America/Sao_Paulo
+2600302	Agrestina	-8.45966	-35.9447	0	26	2305	81	America/Sao_Paulo
+2200103	Agricolândia	-5.79676	-42.6664	0	22	1001	86	America/Sao_Paulo
+4200200	Agrolândia	-27.4087	-49.822	0	42	8003	47	America/Sao_Paulo
+4200309	Agronômica	-27.2662	-49.708	0	42	8005	47	America/Sao_Paulo
+1500347	Água Azul do Norte	-6.79053	-50.4791	0	15	0383	94	America/Sao_Paulo
+3100609	Água Boa	-17.9914	-42.3806	0	31	4011	33	America/Sao_Paulo
+5100201	Água Boa	-14.051	-52.1601	0	51	9191	66	America/Porto_Velho
+2200202	Água Branca	-5.88856	-42.637	0	22	1003	86	America/Sao_Paulo
+2500106	Água Branca	-7.51144	-37.6357	0	25	1901	83	America/Sao_Paulo
+2700102	Água Branca	-9.262	-37.938	0	27	2701	82	America/Sao_Paulo
+5000203	Água Clara	-20.4452	-52.879	0	50	9003	67	America/Porto_Velho
+3100708	Água Comprida	-20.0576	-48.1069	0	31	4013	34	America/Sao_Paulo
+4200408	Água Doce	-26.9985	-51.5528	0	42	8007	49	America/Sao_Paulo
+2100154	Água Doce do Maranhão	-2.84048	-42.1189	0	21	0104	98	America/Sao_Paulo
+3200169	Água Doce do Norte	-18.5482	-40.9854	0	32	5717	27	America/Sao_Paulo
+2900405	Água Fria	-11.8618	-38.7639	0	29	3307	75	America/Sao_Paulo
+5200175	Água Fria de Goiás	-14.9778	-47.7823	0	52	9771	62	America/Sao_Paulo
+5200209	Água Limpa	-18.0771	-48.7603	0	52	9203	64	America/Sao_Paulo
+2400406	Água Nova	-6.20351	-38.2941	0	24	1607	84	America/Sao_Paulo
+2600401	Água Preta	-8.70609	-35.5263	0	26	2307	81	America/Sao_Paulo
+4300059	Água Santa	-28.1672	-52.031	0	43	8499	54	America/Sao_Paulo
+3500303	Aguaí	-22.0572	-46.9735	0	35	6105	19	America/Sao_Paulo
+3100807	Aguanil	-20.9439	-45.3915	0	31	4015	35	America/Sao_Paulo
+2600500	Águas Belas	-9.11125	-37.1226	0	26	2309	87	America/Sao_Paulo
+3500402	Águas da Prata	-21.9319	-46.7176	0	35	6107	19	America/Sao_Paulo
+4200507	Águas de Chapecó	-27.0754	-52.9808	0	42	8009	49	America/Sao_Paulo
+3500501	Águas de Lindóia	-22.4733	-46.6314	0	35	6109	19	America/Sao_Paulo
+3500550	Águas de Santa Bárbara	-22.8812	-49.2421	0	35	7019	14	America/Sao_Paulo
+3500600	Águas de São Pedro	-22.5977	-47.8734	0	35	6111	19	America/Sao_Paulo
+3100906	Águas Formosas	-17.0802	-40.9384	0	31	4017	33	America/Sao_Paulo
+4200556	Águas Frias	-26.8794	-52.8568	0	42	5577	49	America/Sao_Paulo
+5200258	Águas Lindas de Goiás	-15.7617	-48.2816	0	52	1052	61	America/Sao_Paulo
+4200606	Águas Mornas	-27.6963	-48.8243	0	42	8011	48	America/Sao_Paulo
+3101003	Águas Vermelhas	-15.7431	-41.4571	0	31	4019	33	America/Sao_Paulo
+4300109	Agudo	-29.6447	-53.2515	0	43	8501	55	America/Sao_Paulo
+3500709	Agudos	-22.4694	-48.9863	0	35	6113	14	America/Sao_Paulo
+4100301	Agudos do Sul	-25.9899	-49.3343	0	41	7405	41	America/Sao_Paulo
+3200136	Águia Branca	-18.9846	-40.7437	0	32	5733	27	America/Sao_Paulo
+2500205	Aguiar	-7.0918	-38.1681	0	25	1903	83	America/Sao_Paulo
+1700301	Aguiarnópolis	-6.55409	-47.4702	0	17	0072	63	America/Sao_Paulo
+3101102	Aimorés	-19.5007	-41.0746	0	31	4021	33	America/Sao_Paulo
+2900603	Aiquara	-14.1269	-39.8937	0	29	3311	73	America/Sao_Paulo
+2300408	Aiuaba	-6.57122	-40.1178	0	23	1307	88	America/Sao_Paulo
+3101201	Aiuruoca	-21.9736	-44.6042	0	31	4023	35	America/Sao_Paulo
+4300208	Ajuricaba	-28.2342	-53.7757	0	43	8503	55	America/Sao_Paulo
+3101300	Alagoa	-22.171	-44.6413	0	31	4025	35	America/Sao_Paulo
+2500304	Alagoa Grande	-7.03943	-35.6206	0	25	1905	83	America/Sao_Paulo
+2500403	Alagoa Nova	-7.05377	-35.7591	0	25	1907	83	America/Sao_Paulo
+2500502	Alagoinha	-6.94657	-35.5332	0	25	1909	83	America/Sao_Paulo
+2600609	Alagoinha	-8.4665	-36.7788	0	26	2311	87	America/Sao_Paulo
+2200251	Alagoinha do Piauí	-7.00039	-40.9282	0	22	9767	89	America/Sao_Paulo
+2900702	Alagoinhas	-12.1335	-38.4208	0	29	3313	75	America/Sao_Paulo
+3500758	Alambari	-23.5503	-47.898	0	35	2995	15	America/Sao_Paulo
+3101409	Albertina	-22.2018	-46.6139	0	31	4027	35	America/Sao_Paulo
+2100204	Alcântara	-2.39574	-44.4062	0	21	0703	98	America/Sao_Paulo
+2300507	Alcântaras	-3.58537	-40.5479	0	23	1309	88	America/Sao_Paulo
+2500536	Alcantil	-7.73668	-36.0511	0	25	0440	83	America/Sao_Paulo
+5000252	Alcinópolis	-18.3255	-53.7042	0	50	0141	67	America/Porto_Velho
+2900801	Alcobaça	-17.5195	-39.2036	0	29	3315	73	America/Sao_Paulo
+2100303	Aldeias Altas	-4.62621	-43.4689	0	21	0705	99	America/Sao_Paulo
+4300307	Alecrim	-27.6579	-54.7649	0	43	8505	55	America/Sao_Paulo
+3200201	Alegre	-20.758	-41.5382	0	32	5603	28	America/Sao_Paulo
+4300406	Alegrete	-29.7902	-55.7949	0	43	8507	55	America/Sao_Paulo
+2200277	Alegrete do Piauí	-7.24196	-40.8566	0	22	2269	89	America/Sao_Paulo
+4300455	Alegria	-27.8345	-54.0557	0	43	8497	55	America/Sao_Paulo
+3101508	Além Paraíba	-21.8797	-42.7176	0	31	4029	32	America/Sao_Paulo
+1500404	Alenquer	-1.94623	-54.7384	0	15	0407	93	America/Sao_Paulo
+2400505	Alexandria	-6.40533	-38.0142	0	24	1609	84	America/Sao_Paulo
